@@ -87,6 +87,7 @@ export default function Home() {
               </p>
             </li>
           </ul>
+          <a href="https://docs.google.com/spreadsheets/d/17fB41diNJoClQM7gy3jkCzZxGn7cDj-hHLYeGyrp_kM/edit?usp=sharing" className='pr-1 border-b text-blue-500 hover:opacity-30'><p>スキルシートはこちら</p></a>
         </div>
         <div className='my-5'>
           <h2 className='text-2xl my-2'>My Personal App</h2>
