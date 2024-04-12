@@ -46,6 +46,10 @@ export default function Home() {
               <a href="https://twitter.com/shunperorin" className='text-sm pr-1 border-b text-blue-500 hover:opacity-30'>X(Twitter)</a>
               /
               <a href="https://github.com/ShunyaNagahori" className='text-sm px-1 border-b text-blue-500 hover:opacity-30'>GitHub</a>
+              <p className='text-sm'>
+                フリーランスのシステムエンジニアとして日々生きています。<br/>
+                フロントエンドとバックエンドともに実務経験があり、コミュニケーションは得意な方です。<br />
+              </p>
             </div>
             <div>
               <img className='rounded-full' src='images/prof.jpg' width={150} />
@@ -59,14 +63,13 @@ export default function Home() {
             <SkillIcon skill={"CSS"} />
             <SkillIcon skill={"JavaScript"} />
             <SkillIcon skill={"TypeScript"} />
-            <SkillIcon skill={"SQL"} />
-            <SkillIcon skill={"Node.js"} />
-            <SkillIcon skill={"React"} />
-            <SkillIcon skill={"Next.js"} />
             <SkillIcon skill={"Ruby"} />
             <SkillIcon skill={"Ruby on Rails"} />
-            <SkillIcon skill={"Dart"} />
-            <SkillIcon skill={"Flutter"} />
+            <SkillIcon skill={"SQL"} />
+            <SkillIcon skill={"React"} />
+            <SkillIcon skill={"Next.js"} />
+            <SkillIcon skill={"Node.js"} />
+            <SkillIcon skill={"Nest.js"} />
             <SkillIcon skill={"Docker"} />
             <SkillIcon skill={"AWS"} />
           </div>
@@ -81,9 +84,12 @@ export default function Home() {
               </p>
             </li>
             <li className='m-5'>
-              合同会社pico（2023年8月〜2023年11月）
+              合同会社pico（2023年8月〜現在）
               <p className='text-sm'>
-                『英語単語例文検索ツール『dict』の開発（フロントエンド）
+                英語単語例文検索ツール『dict』の開発（フロントエンド）
+              </p>
+              <p className='text-sm'>
+                企業と働き手のマッチングサービス『ai-agent』の開発（フロントエンド、バックエンド）
               </p>
             </li>
           </ul>
