@@ -71,7 +71,7 @@ export default function Home() {
             <SkillIcon skill={"Node.js"} />
             <SkillIcon skill={"Nest.js"} />
             <SkillIcon skill={"Docker"} />
-            <SkillIcon skill={"AWS"} />
+            <SkillIcon skill={"Prisma"} />
           </div>
         </div>
         <div className='my-5'>
@@ -90,6 +90,12 @@ export default function Home() {
               </p>
               <p className='text-sm'>
                 企業と働き手のマッチングサービス『ai-agent』の開発（フロントエンド、バックエンド）
+              </p>
+            </li>
+            <li className='m-5'>
+              ユナイトアンドグロウ株式会社（2024年5月〜現在）
+              <p className='text-sm'>
+              会員制ナレッジシェアサービス『kikzo』のSlackアプリ制作（バックエンド）
               </p>
             </li>
           </ul>
