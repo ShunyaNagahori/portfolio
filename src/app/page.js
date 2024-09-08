@@ -69,7 +69,7 @@ export default function Home() {
             <SkillIcon skill={"React"} />
             <SkillIcon skill={"Next.js"} />
             <SkillIcon skill={"Node.js"} />
-            <SkillIcon skill={"Nest.js"} />
+            <SkillIcon skill={"Express"} />
             <SkillIcon skill={"Docker"} />
             <SkillIcon skill={"Prisma"} />
           </div>
