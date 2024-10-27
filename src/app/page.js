@@ -70,6 +70,7 @@ export default function Home() {
             <SkillIcon skill={"Next.js"} />
             <SkillIcon skill={"Node.js"} />
             <SkillIcon skill={"Express"} />
+            <SkillIcon skill={"Nest.js"} />
             <SkillIcon skill={"Docker"} />
             <SkillIcon skill={"Prisma"} />
           </div>
@@ -84,7 +85,7 @@ export default function Home() {
               </p>
             </li>
             <li className='m-5'>
-              合同会社pico（2023年8月〜現在）
+              合同会社pico（2023年8月〜2024年4月）
               <p className='text-sm'>
                 英語単語例文検索ツール『dict』の開発（フロントエンド）
               </p>
@@ -93,9 +94,15 @@ export default function Home() {
               </p>
             </li>
             <li className='m-5'>
-              ユナイトアンドグロウ株式会社（2024年5月〜現在）
+              ユナイトアンドグロウ株式会社（2024年5月〜 10月）
               <p className='text-sm'>
-              会員制ナレッジシェアサービス『kikzo』のSlackアプリ制作（バックエンド）
+                会員制ナレッジシェアサービス『kikzo』のSlackアプリ制作（バックエンド）
+              </p>
+            </li>
+            <li className='m-5'>
+              株式会社LeaP Up（2024年10月〜現在）
+              <p className='text-sm'>
+                学生起業家のSNSサービス『Bloom Up』の開発（フロントエンド、バックエンド）
               </p>
             </li>
           </ul>
