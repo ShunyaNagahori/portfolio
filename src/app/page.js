@@ -94,13 +94,13 @@ export default function Home() {
               </p>
             </li>
             <li className='m-5'>
-              ユナイトアンドグロウ株式会社（2024年5月〜 10月）
+              ユナイトアンドグロウ株式会社（2024年5月〜 2024年10月）
               <p className='text-sm'>
                 会員制ナレッジシェアサービス『kikzo』のSlackアプリ制作（バックエンド）
               </p>
             </li>
             <li className='m-5'>
-              株式会社LeaP Up（2024年10月〜現在）
+              株式会社LeaP Up（2024年9月〜2024年11月）
               <p className='text-sm'>
                 学生起業家のSNSサービス『Bloom Up』の開発（フロントエンド、バックエンド）
               </p>
