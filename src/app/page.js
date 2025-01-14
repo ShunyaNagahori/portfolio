@@ -3,6 +3,13 @@ import AppLink from "./components/AppLink";
 
 const AppLinkProps = [
   {
+    name: 'Niporica ニポリカ',
+    link: 'https://niporica.com/',
+    githubLink: 'https://github.com/ShunyaNagahori/niporica',
+    images: ['images/appLinkImage/niporica1.webp'],
+    description: 'プロジェクトの稼働時間を可視化する業務日報管理ツール'
+  },
+  {
     name: 'advrial',
     link: null,
     githubLink: 'https://github.com/ShunyaNagahori/advrial',
@@ -25,7 +32,8 @@ const AppLinkProps = [
   },
   {
     name: 'Room',
-    link: 'https://room-client.onrender.com/',
+    link: null,
+    // link: 'https://room-client.onrender.com/',
     githubLink: 'https://github.com/ShunyaNagahori/Room',
     images: ['images/appLinkImage/room1.png', 'images/appLinkImage/room2.png'],
     description: '匿名性のある自由なチャットアプリです。'
