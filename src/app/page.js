@@ -98,7 +98,7 @@ export default function Home() {
                 英語単語例文検索ツール『dict』の開発（フロントエンド）
               </p>
               <p className='text-sm'>
-                企業と働き手のマッチングサービス『ai-agent』の開発（フロントエンド、バックエンド）
+                企業と働き手のマッチングサービス『ai-agent』の開発（バックエンド、フロントエンド）
               </p>
             </li>
             <li className='m-5'>
@@ -110,7 +110,13 @@ export default function Home() {
             <li className='m-5'>
               株式会社LeaP Up（2024年9月〜2024年11月）
               <p className='text-sm'>
-                学生起業家のSNSサービス『Bloom Up』の開発（フロントエンド、バックエンド）
+                学生起業家のSNSサービス『Bloom Up』の開発（バックエンド、フロントエンド）
+              </p>
+            </li>
+            <li className='m-5'>
+              株式会社Groovement（2025年4月〜現在）
+              <p className='text-sm'>
+                フリーランスコンサルタント向けの案件紹介マッチングサービス『Strategy Consultant Bank』の開発（バックエンド、フロントエンド）
               </p>
             </li>
           </ul>
@@ -133,10 +139,6 @@ export default function Home() {
                 />
               ))}
             </div>
-        </div>
-        <div className='my-5'>
-          <h2 className='text-2xl my-2'>Blog</h2>
-          <p className='text-sm text-gray-400'>作成中です</p>
         </div>
         <div className='my-5'>
           <h2 className='text-2xl my-2'>Conntact</h2>
