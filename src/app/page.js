@@ -4,7 +4,8 @@ import AppLink from "./components/AppLink";
 const AppLinkProps = [
   {
     name: 'Niporica ニポリカ',
-    link: 'https://niporica.com/',
+    link: null,
+    // link: 'https://niporica.com/',
     githubLink: 'https://github.com/ShunyaNagahori/niporica',
     images: ['images/appLinkImage/niporica1.webp'],
     description: 'プロジェクトの稼働時間を可視化する業務日報管理ツール'
@@ -87,7 +88,7 @@ export default function Home() {
           <h2 className='text-2xl my-2'>Works</h2>
           <ul className='list-disc'>
             <li className='m-5'>
-              株式会社TOKI（2022年11月〜現在）
+              株式会社TOKI（2022年11月〜2026年1月）
               <p className='text-sm'>
                 旅程作成ツール『TRAVESENS』の開発（バックエンド、フロントエンド）
               </p>
@@ -114,9 +115,15 @@ export default function Home() {
               </p>
             </li>
             <li className='m-5'>
-              株式会社Groovement（2025年4月〜現在）
+              株式会社Groovement（2025年4月〜2025年9月）
               <p className='text-sm'>
                 フリーランスコンサルタント向けの案件紹介マッチングサービス『Strategy Consultant Bank』の開発（バックエンド、フロントエンド）
+              </p>
+            </li>
+            <li className='m-5'>
+              株式会社Timelab（2026年1月〜現在）
+              <p className='text-sm'>
+                デジタル証明書発行Webアプリ『Shomia』の開発（バックエンド、フロントエンド）
               </p>
             </li>
           </ul>
