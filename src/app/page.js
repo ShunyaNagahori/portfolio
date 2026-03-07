@@ -3,6 +3,14 @@ import AppLink from "./components/AppLink";
 
 const AppLinkProps = [
   {
+    name: 'TSUMU',
+    link: 'https://www.tsumu-app.com/',
+    // link: 'https://niporica.com/',
+    githubLink: null,
+    images: ['images/appLinkImage/tsumu1.webp','images/appLinkImage/tsumu2.webp', 'images/appLinkImage/tsumu3.webp'],
+    description: '日々の勉強・活動・趣味などを記録して、自分の成長を可視化するアプリです。'
+  },
+  {
     name: 'Niporica ニポリカ',
     link: null,
     // link: 'https://niporica.com/',
